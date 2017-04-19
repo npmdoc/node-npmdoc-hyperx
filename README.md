@@ -1,9 +1,14 @@
-# api documentation for  [hyperx (v2.3.0)](https://github.com/substack/hyperx#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hyperx.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hyperx) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hyperx.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hyperx)
+# npmdoc-hyperx
+
+#### api documentation for  [hyperx (v2.3.0)](https://github.com/substack/hyperx#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hyperx.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hyperx) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hyperx.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hyperx)
+
 #### tagged template string virtual dom builder
 
-[![NPM](https://nodei.co/npm/hyperx.png?downloads=true)](https://www.npmjs.com/package/hyperx)
+[![NPM](https://nodei.co/npm/hyperx.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hyperx)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-hyperx/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-hyperx_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-hyperx/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-hyperx/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-hyperx/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-hyperx/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-hyperx/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-hyperx/build/screenCapture.npmPackageListing.svg)
 
@@ -56,41 +61,32 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "almost",
-            "email": "tom@almostobsolete.net"
+            "name": "almost"
         },
         {
-            "name": "colingourlay",
-            "email": "colin@colin-gourlay.com"
+            "name": "colingourlay"
         },
         {
-            "name": "emilbayes",
-            "email": "github@tixz.dk"
+            "name": "emilbayes"
         },
         {
-            "name": "feross",
-            "email": "feross@feross.org"
+            "name": "feross"
         },
         {
-            "name": "jameskyburz",
-            "email": "james.kyburz@gmail.com"
+            "name": "jameskyburz"
         },
         {
-            "name": "shama",
-            "email": "kyle@dontkry.com"
+            "name": "shama"
         },
         {
-            "name": "slaskis",
-            "email": "robert@publicclass.se"
+            "name": "slaskis"
         },
         {
-            "name": "substack",
-            "email": "substack@gmail.com"
+            "name": "substack"
         }
     ],
     "name": "hyperx",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/substack/hyperx.git"
@@ -102,16 +98,6 @@
     "version": "2.3.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module hyperx](#apidoc.module.hyperx)
-
-
-
-# <a name="apidoc.module.hyperx"></a>[module hyperx](#apidoc.module.hyperx)
 
 
 
